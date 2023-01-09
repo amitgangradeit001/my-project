@@ -10,6 +10,8 @@ fun main(args: Array<String>) {
     val a = isPalindrome("wow")
 
     println("To check palindrome string $a")
+
+    println("To fix the error")
 }
 fun isPalindrome(str:String):Boolean{
     var rev =""
