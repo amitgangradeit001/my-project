@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
 
     val a = isPalindrome("wow")
 
-    println("To check palindrome string $a")
+    println("To check palindrome is string $a")
 
     println("Adding new line")
 }
