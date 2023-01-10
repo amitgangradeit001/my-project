@@ -12,7 +12,6 @@ fun main(args: Array<String>) {
     println("To check palindrome string $a")
 
     println("To fix the error")
-    println("To fix the error 1")
 }
 fun isPalindrome(str:String):Boolean{
     var rev =""
